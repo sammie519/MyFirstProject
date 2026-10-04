@@ -1,0 +1,19 @@
+body {
+    font-family: Arial;
+    background-color: #f4f4f4;
+}
+
+.letter {
+    width: 60%;
+    margin: auto;
+    background: white;
+    padding: 20px;
+}
+
+.address {
+    text-align: right;
+}
+
+.receiver {
+    margin-top: 20px;
+}
